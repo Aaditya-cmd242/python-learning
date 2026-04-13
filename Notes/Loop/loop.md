@@ -210,3 +210,94 @@ Hard (15-20)
 # else:
 #     print('not a prime')
 
+# LOOPS 
+'''
+*   LOOP CONTROL
+.   What are Loop Control Statements?
+
+👉 They change how a loop behaves
+Instead of normal flow, you can:
+
+stop it
+skip parts
+control execution
+
+*  there are 3 Loop Control Statements
+🔴 1. break (VERY IMPORTANT)
+🧠 Meaning:
+
+👉 Immediately stops the loop
+
+📌 Example
+for i in range(1, 6):
+    if i == 3:
+        break
+    print(i)
+Output:
+1
+2
+🔍 How it works
+
+Loop runs:
+
+i = 1 → print
+i = 2 → print
+i = 3 → 💥 break → loop ends
+
+Stop when:-
+           condition met
+           found element
+           user input matches
+
+
+🟡 2. continue (VERY IMPORTANT)
+🧠 Meaning:
+
+👉 Skip current iteration, go to next
+
+📌 Example
+for i in range(1, 6):
+    if i == 3:
+        continue
+    print(i)
+Output:
+1
+2
+4
+5
+🔍 How it works
+i = 3 → skipped
+rest runs normally
+
+Skip:
+     unwanted values
+     odd/even filtering
+     invalid inputs
+
+
+🧠 What is pass in loops?
+
+👉 pass means:
+
+“Do nothing, but don’t give error”
+
+🔴 Why do we need pass?
+
+In Python, you cannot leave a block empty
+
+❌ This gives error:
+
+for i in range(5):
+
+👉 Python expects some code inside
+
+✅ So we use pass
+for i in range(5):
+    pass
+
+👉 Now:
+
+loop runs ✔️
+but does nothing ✔️
+no error ✔️
+'''
