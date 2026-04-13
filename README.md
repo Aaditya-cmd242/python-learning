@@ -23,8 +23,7 @@ python-learning/
 |       |        |----- condition.md
 |       |
 |       |----- Loop/
-|       |        |----- For_loop.md
-|       |        |----- While_loop.md
+|       |        |----- loop.md
 |       |        |----- Nested_loop.md
 |       |
 |       |----- Sets/
