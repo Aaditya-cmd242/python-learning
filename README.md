@@ -17,13 +17,7 @@ python-learning/
 |       |        |----- Complex_number.md
 |       | 
 |       |----- Oprators/
-|       |        |----- Arithmetic_Operators.md
-|       |        |----- Relational_Operators.md
-|       |        |----- Logical_Operators.md
-|       |        |----- Assignment_Operators.md
-|       |        |----- Bitwise_Operators.md
-|       |        |----- Membership_Operators.md
-|       |        |----- Identity_Operators.md
+|       |        |----- oprators.md
 |       |
 |       |----- Conditions/
 |       |        |----- condition.md
