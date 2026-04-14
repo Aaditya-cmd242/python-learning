@@ -1,3 +1,5 @@
+# in the name of day-5 took 2 week break for jee preap exam
+
 # NESTED LOOPS PRACTICE
 
 # EXAMPLE:-
