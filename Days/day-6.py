@@ -1,3 +1,5 @@
+# after 2 week break and next day of jee exam 
+
 '''
 1️⃣ Even/Odd
 
